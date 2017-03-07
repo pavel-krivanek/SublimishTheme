@@ -1,14 +1,11 @@
 {
-	"category" : "SublimishTheme",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
-	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "SublimishTheme",
-	"pools" : [
-		 ],
+	"commentStamp" : "PavelKrivanek 3/7/2017 10:32",
 	"super" : "Pharo3DarkTheme",
-	"type" : "normal" }
+	"category" : "SublimishTheme",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SublimishTheme",
+	"type" : "normal"
+}
